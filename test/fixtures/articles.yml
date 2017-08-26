@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  sports_type: MyString
+  title: MyString
+  contents: MyText
+  video: MyString
+
+two:
+  category: MyString
+  sports_type: MyString
+  title: MyString
+  contents: MyText
+  video: MyString
